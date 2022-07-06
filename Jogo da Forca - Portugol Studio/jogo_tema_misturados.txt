@@ -1,0 +1,240 @@
+P:LOGICA
+D:Todo programador precisa ter
+D:Uma das coisas mais importantes na programação
+D:Sem ela você não consegue fazer nada funcionar
+P:ALGORITMO
+D:Rotina
+D:Instruções
+D:Receita
+P:COMPILADOR
+D:Traduz a linguagem
+D:Tradução para binário
+D:Sem ele sua máquina nõa consegue ler o programa
+P:BROWSER
+D:Todo usuário usa
+D:Tem na máquina
+D:O mais popular é o do Google
+P:CLOUD
+D:Ferramenta online
+D:Armazena
+D:Algumas são pagas
+P:DISPOSITIVO WIRELESS
+D:Distribui sinal
+D:Não usa fio
+D:Prático
+P:BUG
+D:Atrasa o trabalho
+D:Programador detesta
+D:Desaparece quando resolvido
+P:PASSWORD
+D:Usuários usam letras
+D:Usuários usam números e caracteres especiais
+D:Todo login precisa ter
+P:KEYBOARD
+D:Toda máquina tem
+D:Ferramenta fisica
+D:Alguns possuem cabos, outros não
+P:HARDWARE
+D:Seu dispositivo tem
+D:Componente físico
+D:Refere-se aos componentes internos do dispositivo
+P:CSS
+D:Estilizador
+D:Cascatas
+D:Linguagem
+P:COOKIES
+D:Os sites pedem
+D:Rejeitar
+D:Aceitar/Rejeitar
+P:STACK OVERFLOW
+D:Perguntas
+D:Respostas
+D:Site que todo programador usa e abusa
+P:DEBUG
+D:Passo a passo
+D:Encontrar o erro
+D:Corrigir
+P:HMTL
+D:Componente base
+D:WEB
+D:Não é linguagem
+P:BACKUP
+D:Segurança
+D:Traz infos antigas pra um novo dispositivo
+D:Se você não tiver feito, corre os risco de perder coisas importantes
+P:DASHBOARD
+D:Painel
+D:Informação
+D:Dados
+P:QUERY
+D:Consulta
+D:Solicitação
+D:Banco de dados
+P:BANCO DE DADOS
+D:Coleção
+D:Organização
+D:Dados
+P:UPLOAD
+D:Transferência
+D:Arquivo,dados
+D:Computador
+P:AFRICA DO SUL
+D:Tem três capitais uma delas é Pretória
+D:A fruta típica  é a marula
+D:Sediou a Copa do Mundo em 2010
+P:ANGOLA
+D:Está localizada no Sul da África
+D:Adoram música e dançar Kizomba é um dos ritmos
+D:O português é a língua oficial
+P:ARABIA SAUDITA
+D:Fica em uma porção de terra no Oriente Médio
+D:Sua capital é Riade
+D:É o berço do islamismo onde nasceu o profeta Maomé
+P:ARGENTINA
+D:É o País mais próximo da Antártida
+D:Venceu a Copa de 1986
+D:Sua dança tradicional é o Tango
+P:AUSTRALIA
+D:Seus nativos são os aborígenes
+D:É a nação com a maior população costeira do mundo
+D:Um de seus animais típicos é o Koala
+P:BOLIVIA
+D:É ocupada por uma parte da Floresta Amazônica
+D:É situado o lago Titicaca nos Andes
+D:Empanada é sua comida típica
+P:BRASIL
+D:Não é o maior em exportação de castanha-do-pará
+D:Já teve a capital de Portugal
+D:Seu nome arde como brasa
+P:CANADA
+D:Tem uma folha na sua bandeira
+D:Hockey é o esporte mais praticado
+D:O nome do país vem da palavra indígena Kanata
+P:CHILE
+D:É um dos países mais propensos a terremotos no mundo
+D:É localizado o deserto considerado o mais árido do mundo
+D:Tem cerca de 2.900 vulcões
+P:CHINA
+D:É o maior consumidor de vinho tinto do mundo
+D:Tem a maior população de budistas do mundo
+D:É o país mais populoso do mundo
+P:COLOMBIA
+D:É o terceiro maior país da América Latina
+D:Belezas naturais e do povo caloroso
+D:Já teve o maior traficante do mundo
+P:EGITO
+D:Domingo é um dia útil neste país
+D:Cerveja era moeda de troca
+D:A pirâmide mais famosa do mundo
+P:ESTADOS UNIDOS
+D:Neste país o voto não é obrigatório
+D:Lá eles cantam um parabéns curto e sem palmas
+D:A moeda é a mais utilizada no mundo
+P:ETIOPIA
+D:Lá o ano dura 13 meses
+D:É a extenção do movimento rastafári
+D:É o berço da África
+P:HOLANDA
+D:Faz fronteira com a Bélgica e a Alemanha
+D:Lá existem mais bicicletas que pessoas
+D:sua Selação usa laranja
+P:INDIA
+D:É o lar do famoso festival Holi
+D:Incontáveis deuses e deusas
+D:Segundo país mais populoso
+P:INDONESIA
+D:Um dos templos mais famosos é Pura Tirta Empul
+D:Os macacos são considerados tão sagrados quanto os templos
+D:Houve um terrível Tsunami em 2004
+P:JAPAO
+D:A cultura é baseada principalmente no respeito ao próximo
+D:Encostar na mão de outra pessoa é considerado contato íntimo
+D:Sua bandeira simboliza o Sol Nascente
+P:MADAGASCAR
+D:É localizado na África Oriental
+D:O Lêmure é o animal que representa o país
+D:Sua árvora típica é o Baobá
+P:MEXICO
+D:O verde da bandeira representa a esperança, o branco, sua união, e o vermelho, o sangue dos heróis nacionais
+D:É o país com o maior consumo de refrigerantes do mundo
+D:Berço da população Asteca
+P:KIWI
+D:Parente do morango
+D:Casca marrom
+D:Verde por dentro
+P:LIMAO
+D:Bom para resfriado
+D:Ácido
+D:Ingrediente da caipirinha
+P:BANANA
+D:Rico em potássio
+D:Bom para cãimbra
+D:Macaco adora
+P:LARANJA
+D:Rico em vitamina C
+D:A cor leva o seu nome
+D:Fruta redonda
+P:MORANGO
+D:Possui pequenas sementes no exterior
+D:Vermelha
+D:Formato triangular
+P:MAMAO
+D:Bom para o intestino
+D:Forte presença em saladas de frutas
+D:Geralmente doce
+P:UVA
+D:Disposta em cachos
+D:Caracteística cor roxa
+D:Usada para produzir vinho
+P:TANGERINA
+D:Possui gomos
+D:No sul é conhecida como "bergamota"
+D:Parece com a laranja
+P:ABACAXI
+D:Casca grossa
+D:Característica coroa de folhas
+D:Usado para fazer o drink "espanhola"
+P:MELANCIA
+D:Possui a casca verde
+D:Várias sementes internas
+D:A Magali adora
+P:CAJU
+D:Possui um caroço grande
+D:Fabrica castanha
+D:Casca com "pelinhos macios"
+P:CAQUI
+D:"Alimento de Zeus"
+D:Lembra o tomate
+D:Doce
+P:CARAMBOLA
+D:Pode prejudicar o rim
+D:Formato estrelar
+D:Cor amarela
+P:MELAO
+D:Parente da melancia
+D:Cor amarela
+D:Fruta aguada
+P:ABACATE
+D:Grande caroço interno
+D:Usado em vitaminas
+D:Cor verde
+P:GRAVIOLA
+D:Cor verde
+D:Fruta espinhosa
+D:Lembra uma pequena Jaca
+P:MAÇA
+D:Fruta massuda
+D:Oxida facilmente
+D:Normalmente vermelha
+P:JACA
+D:Fruta muito grande
+D:Parece uma graviola enorme
+D:Se cair na cabeça, já era
+P:TAMATRA
+D:Demora muito tempo para poder ser consumida
+D:Fruta da juventuda
+D:"Quem planta_____, não colhe _____
+P:CIRIGUELA
+D:Pequenas e amarelas
+D:Levemente azedas
+D:Comum no nordeste

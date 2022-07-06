@@ -1,0 +1,80 @@
+P:LOGICA
+D:Todo programador precisa ter
+D:Uma das coisas mais importantes na programação
+D:Sem ela você não consegue fazer nada funcionar
+P:ALGORITMO
+D:Rotina
+D:Instruções
+D:Receita
+P:COMPILADOR
+D:Traduz a linguagem
+D:Tradução para binário
+D:Sem ele sua máquina nõa consegue ler o programa
+P:BROWSER
+D:Todo usuário usa
+D:Tem na máquina
+D:O mais popular é o do Google
+P:CLOUD
+D:Ferramenta online
+D:Armazena
+D:Algumas são pagas
+P:DISPOSITIVO WIRELESS
+D:Distribui sinal
+D:Não usa fio
+D:Prático
+P:BUG
+D:Atrasa o trabalho
+D:Programador detesta
+D:Desaparece quando resolvido
+P:PASSWORD
+D:Usuários usam letras
+D:Usuários usam números e caracteres especiais
+D:Todo login precisa ter
+P:KEYBOARD
+D:Toda máquina tem
+D:Ferramenta fisica
+D:Alguns possuem cabos, outros não
+P:HARDWARE
+D:Seu dispositivo tem
+D:Componente físico
+D:Refere-se aos componentes internos do dispositivo
+P:CSS
+D:Estilizador
+D:Cascatas
+D:Linguagem
+P:COOKIES
+D:Os sites pedem
+D:Rejeitar
+D:Aceitar/Rejeitar
+P:STACK OVERFLOW
+D:Perguntas
+D:Respostas
+D:Site que todo programador usa e abusa
+P:DEBUG
+D:Passo a passo
+D:Encontrar o erro
+D:Corrigir
+P:HMTL
+D:Componente base
+D:WEB
+D:Não é linguagem
+P:BACKUP
+D:Segurança
+D:Traz infos antigas pra um novo dispositivo
+D:Se você não tiver feito, corre os risco de perder coisas importantes
+P:DASHBOARD
+D:Painel
+D:Informação
+D:Dados
+P:QUERY
+D:Consulta
+D:Solicitação
+D:Banco de dados
+P:BANCO DE DADOS
+D:Coleção
+D:Organização
+D:Dados
+P:UPLOAD
+D:Transferência
+D:Arquivo,dados
+D:Computador

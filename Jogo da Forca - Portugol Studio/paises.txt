@@ -1,0 +1,80 @@
+P:AFRICA DO SUL
+D:Tem três capitais uma delas é Pretória
+D:A fruta típica  é a marula
+D:Sediou a Copa do Mundo em 2010
+P:ANGOLA
+D:Está localizada no Sul da África
+D:Adoram música e dançar Kizomba é um dos ritmos
+D:O português é a língua oficial
+P:ARABIA SAUDITA
+D:Fica em uma porção de terra no Oriente Médio
+D:Sua capital é Riade
+D:É o berço do islamismo onde nasceu o profeta Maomé
+P:ARGENTINA
+D:É o País mais próximo da Antártida
+D:Venceu a Copa de 1986
+D:Sua dança tradicional é o Tango
+P:AUSTRALIA
+D:Seus nativos são os aborígenes
+D:É a nação com a maior população costeira do mundo
+D:Um de seus animais típicos é o Koala
+P:BOLIVIA
+D:É ocupada por uma parte da Floresta Amazônica
+D:É situado o lago Titicaca nos Andes
+D:Empanada é sua comida típica
+P:BRASIL
+D:Não é o maior em exportação de castanha-do-pará
+D:Já teve a capital de Portugal
+D:Seu nome arde como brasa
+P:CANADA
+D:Tem uma folha na sua bandeira
+D:Hockey é o esporte mais praticado
+D:O nome do país vem da palavra indígena Kanata
+P:CHILE
+D:É um dos países mais propensos a terremotos no mundo
+D:É localizado o deserto considerado o mais árido do mundo
+D:Tem cerca de 2.900 vulcões
+P:CHINA
+D:É o maior consumidor de vinho tinto do mundo
+D:Tem a maior população de budistas do mundo
+D:É o país mais populoso do mundo
+P:COLOMBIA
+D:É o terceiro maior país da América Latina
+D:Belezas naturais e do povo caloroso
+D:Já teve o maior traficante do mundo
+P:EGITO
+D:Domingo é um dia útil neste país
+D:Cerveja era moeda de troca
+D:A pirâmide mais famosa do mundo
+P:ESTADOS UNIDOS
+D:Neste país o voto não é obrigatório
+D:Lá eles cantam um parabéns curto e sem palmas
+D:A moeda é a mais utilizada no mundo
+P:ETIOPIA
+D:Lá o ano dura 13 meses
+D:É a extenção do movimento rastafári
+D:É o berço da África
+P:HOLANDA
+D:Faz fronteira com a Bélgica e a Alemanha
+D:Lá existem mais bicicletas que pessoas
+D:sua Selação usa laranja
+P:INDIA
+D:É o lar do famoso festival Holi
+D:Incontáveis deuses e deusas
+D:Segundo país mais populoso
+P:INDONESIA
+D:Um dos templos mais famosos é Pura Tirta Empul
+D:Os macacos são considerados tão sagrados quanto os templos
+D:Houve um terrível Tsunami em 2004
+P:JAPAO
+D:A cultura é baseada principalmente no respeito ao próximo
+D:Encostar na mão de outra pessoa é considerado contato íntimo
+D:Sua bandeira simboliza o Sol Nascente
+P:MADAGASCAR
+D:É localizado na África Oriental
+D:O Lêmure é o animal que representa o país
+D:Sua árvora típica é o Baobá
+P:MEXICO
+D:O verde da bandeira representa a esperança, o branco, sua união, e o vermelho, o sangue dos heróis nacionais
+D:É o país com o maior consumo de refrigerantes do mundo
+D:Berço da população Asteca

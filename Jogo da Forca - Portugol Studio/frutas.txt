@@ -1,0 +1,80 @@
+P:KIWI
+D:Parente do morango
+D:Casca marrom
+D:Verde por dentro
+P:LIMAO
+D:Bom para resfriado
+D:Ácido
+D:Ingrediente da caipirinha
+P:BANANA
+D:Rico em potássio
+D:Bom para cãimbra
+D:Macaco adora
+P:LARANJA
+D:Rico em vitamina C
+D:A cor leva o seu nome
+D:Fruta redonda
+P:MORANGO
+D:Possui pequenas sementes no exterior
+D:Vermelha
+D:Formato triangular
+P:MAMAO
+D:Bom para o intestino
+D:Forte presença em saladas de frutas
+D:Geralmente doce
+P:UVA
+D:Disposta em cachos
+D:Caracteística cor roxa
+D:Usada para produzir vinho
+P:TANGERINA
+D:Possui gomos
+D:No sul é conhecida como "bergamota"
+D:Parece com a laranja
+P:ABACAXI
+D:Casca grossa
+D:Característica coroa de folhas
+D:Usado para fazer o drink "espanhola"
+P:MELANCIA
+D:Possui a casca verde
+D:Várias sementes internas
+D:A Magali adora
+P:CAJU
+D:Possui um caroço grande
+D:Fabrica castanha
+D:Casca com "pelinhos macios"
+P:CAQUI
+D:"Alimento de Zeus"
+D:Lembra o tomate
+D:Doce
+P:CARAMBOLA
+D:Pode prejudicar o rim
+D:Formato estrelar
+D:Cor amarela
+P:MELAO
+D:Parente da melancia
+D:Cor amarela
+D:Fruta aguada
+P:ABACATE
+D:Grande caroço interno
+D:Usado em vitaminas
+D:Cor verde
+P:GRAVIOLA
+D:Cor verde
+D:Fruta espinhosa
+D:Lembra uma pequena Jaca
+P:MAÇA
+D:Fruta massuda
+D:Oxida facilmente
+D:Normalmente vermelha
+P:JACA
+D:Fruta muito grande
+D:Parece uma graviola enorme
+D:Se cair na cabeça, já era
+P:TAMARA
+D:Demora muito tempo para poder ser consumida
+D:Fruta da juventuda
+D:"Quem planta_____, não colhe _____
+P:CIRIGUELA
+D:Pequenas e amarelas
+D:Levemente azedas
+D:Comum no nordeste
